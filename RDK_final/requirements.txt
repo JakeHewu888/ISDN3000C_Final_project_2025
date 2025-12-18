@@ -1,0 +1,8 @@
+flask
+flask-cors
+opencv-python-headless
+onnxruntime
+numpy
+# RPi.GPIO or Hobot.GPIO is needed on the device
+# RPi.GPIO 
+
